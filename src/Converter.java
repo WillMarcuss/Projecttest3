@@ -1,7 +1,9 @@
 /*
 William Marcus
+Temp Converter
 January 13th 2022
  */
+
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
